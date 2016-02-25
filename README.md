@@ -1,14 +1,10 @@
 # HealthNet
+An online resource that will help hospitals be more efficient. 
 
 # Preface
 
 This is guide to set this Python and Django based project up and running.
 The versions that are required to run this are Python 3.4.3, Django 1.8.3, Sqlite 3.7.11.
-
-# Introduction
-
-This is Healthnet, an online resource that will help hospitals be more efficient. 
-
 
 # Install
 
@@ -516,32 +512,32 @@ This install process will assume that the user already has python and Django ins
 # DEMO User account information
 
 #Root User - Super user
-Username: admin Password: admin
+	Username: admin Password: admin
 
 #Hospital Admins
-Username: admindexter   Password: password
-Username: adminkrutz    Password: password
-Username: rockstar      Password: password
-Username: coolville     Password: susancool
+	Username: admindexter   Password: password
+	Username: adminkrutz    Password: password
+	Username: rockstar      Password: password
+	Username: coolville     Password: susancool
 
 #Doctors
-Username: doctorswag    Password: password
-Username: doctorjohn    Password: password
-Username: doctorstorm   Password: password
-Username: doctorsusan   Password: password
+	Username: doctorswag    Password: password
+	Username: doctorjohn    Password: password
+	Username: doctorstorm   Password: password
+	Username: doctorsusan   Password: password
 
 #Nurses
-Username: nursejackie   Password: password
-Username: nursejess     Password: password
-Username: nursedamme    Password: password
-Username: efron         Password: password
+	Username: nursejackie   Password: password
+	Username: nursejess     Password: password
+	Username: nursedamme    Password: password
+	Username: efron         Password: password
 
 #Patients
-Username: dxh9845       Password: gucun43
-Username: bswag         Password: password
-Username: gh1823        Password: password
-Username: philly        Password: 123456
-Username: johnboard     Password: superc00l
+	Username: dxh9845       Password: gucun43
+	Username: bswag         Password: password
+	Username: gh1823        Password: password
+	Username: philly        Password: 123456
+	Username: johnboard     Password: superc00l
 
 # Know bugs and Disclaimers
 
