@@ -533,11 +533,9 @@ This install process will assume that the user already has python and Django ins
 	Username: efron         Password: password
 
 #Patients
-	Username: dxh9845       Password: gucun43
 	Username: bswag         Password: password
 	Username: gh1823        Password: password
 	Username: philly        Password: 123456
-	Username: johnboard     Password: superc00l
 
 # Know bugs and Disclaimers
 
